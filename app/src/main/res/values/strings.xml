@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Home-Task-Project</string>
+    <string name="app_name">Home Task Project</string>
+    <string name="goToFirstFragmentText">Перейти в первый фрагмент</string>
+    <string name="goToSecondFragmentText">Перейти во второй фрагмент</string>
+    <string name="goToThirdFragmentText">Перейти в третий фрагмент</string>
+    <string name="firstFragmentText">"Вы находитесь в первом фрагменте</string>
+    <string name="secondFragmentText">"Вы находитесь во втором фрагменте</string>
+    <string name="thirdFragmentText">"Вы находитесь в третьем фрагменте</string>
 </resources>
