@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Home-Task-Project</string>
+    <string name="currentActivityText">Current Activity: Second Activity</string>
+    <string name="counter">Count: 0</string>
 </resources>
