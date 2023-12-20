@@ -28,7 +28,6 @@ class ThirdFragment : Fragment() {
                 replaceFragment(SecondFragment())
             }
         }
-
         return binding.root
     }
 
